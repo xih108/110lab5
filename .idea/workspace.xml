@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c9d87f4-4809-496e-88c7-93185a912652" name="Default" comment="" />
+    <list default="true" id="5c9d87f4-4809-496e-88c7-93185a912652" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Celsius.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Celsius.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="285">
+              <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
               <folding>
                 <element signature="e#109#110#0" expanded="true" />
                 <element signature="e#133#134#0" expanded="true" />
@@ -45,7 +48,7 @@
       <file leaf-file-name="CelsiusTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
+            <state relative-caret-position="779">
               <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -66,16 +69,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fahrenheit.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Fahrenheit.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="298">
+              <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding>
                 <element signature="e#115#116#0" expanded="true" />
                 <element signature="e#139#140#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,8 +122,8 @@
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/FahrenheitTest.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTest.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" />
-        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" />
+        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" />
       </list>
     </option>
   </component>
@@ -327,7 +328,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541002315252</updated>
-      <workItem from="1541002320271" duration="2911000" />
+      <workItem from="1541002320271" duration="3121000" />
     </task>
     <servers />
   </component>
@@ -343,7 +344,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2911000" />
+    <option name="totallyTimeSpent" value="3121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="162" y="220" width="1440" height="764" extended-state="0" />
@@ -465,6 +466,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/TemperatureConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
@@ -475,38 +499,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="298">
+          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding>
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
           </folding>
         </state>
       </provider>
